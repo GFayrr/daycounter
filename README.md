@@ -1,6 +1,6 @@
 # Day Counter Datapack
 
-Minecraft Java **Datapack 1.21.11**  
+Minecraft Java **Datapack 1.21.1x**  
 Displays the number of days elapsed in the world using the action bar.
 
 ## Features
@@ -47,7 +47,7 @@ day_counter/
 
 ## Compatibility
 
-- Minecraft Java Edition **1.21.11**
+- Minecraft Java Edition **1.21.1x**
 
 ## License
 
