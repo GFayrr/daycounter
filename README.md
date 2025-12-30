@@ -21,19 +21,19 @@ Displays the number of days elapsed in the world using the action bar.
 
 ## File Structure
 
-day_counter/
+day_counter/                     ← root
 ├── pack.mcmeta
-├── README.md
 └── data/
-├── minecraft/
-│ └── tags/
-│ └── functions/
-│ ├── load.json
-│ └── tick.json
-└── daycounter/
-└── functions/
-├── load.mcfunction
-└── tick.mcfunction
+    ├── minecraft/
+    │   └── tags/
+    │       └── functions/
+    │           ├── load.json
+    │           └── tick.json
+    └── daycounter/
+        └── functions/
+            ├── load.mcfunction
+            └── tick.mcfunction
+
 
 ## Technical Details
 
