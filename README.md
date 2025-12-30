@@ -16,7 +16,7 @@ Displays the number of days elapsed in the world using the action bar.
 1. Download or clone this repository
 2. Copy the `day_counter` folder into: `.minecraft/saves/<your_world>/datapacks/`
 3. Launch the world
-4. Run the following command if the datapack is not loaded: /reload
+4. Run the following command if the datapack is not loaded: `/reload`
 5. The day counter will appear automatically
 
 ## File Structure
